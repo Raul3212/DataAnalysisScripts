@@ -1,7 +1,9 @@
 # DataAnalysisScripts
 
-## Descrição
-Um conjunto de scripts úteis para utilização em processos de Análise de Dados.
+## Description
+A set of scripts for Data Analysis.
 
 ### Dividir.py
-python Dividir.py -f <folder-to-csv-files> -l <qtd-lines-for-each-splited-file> -e <encoding> 
+python Dividir.py -f folder_to_csv_files -l qtd_lines_for_each_splited_file -e encoding
+
+
